@@ -3,7 +3,9 @@ title: loading-screen
 type: components
 layout: docs
 parent_section: components
-examples: []
+examples:   
+ - title: Loading Screen Demo
+   src: https://glitch.com/edit/#!/aframe-loading-screen-demo
 ---
 
 The loading screen component configures the loading screen visual style.
